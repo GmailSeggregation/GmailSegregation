@@ -1,0 +1,13 @@
+{
+  "name": "gmail",
+  "version": "0.1.0",
+  "private": true,
+  "description": "��#\u0000 \u0000G\u0000m\u0000a\u0000i\u0000l\u0000S\u0000e\u0000g\u0000r\u0000e\u0000g\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000#\u0000 \u0000G\u0000m\u0000a\u0000i\u0000l\u0000S\u0000e\u0000g\u0000r\u0000e\u0000g\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000#\u0000 \u0000G\u0000m\u0000a\u0000i\u0000l\u0000S\u0000e\u0000g\u0000r\u0000e\u0000g\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
