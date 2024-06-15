@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global styles */
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+/* Add other global styles as needed */
